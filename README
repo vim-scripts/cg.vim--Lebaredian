@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=701
+
+Syntax highlighting script for the Cg hardware shading language.
+
+See http://www.nvidia.com/cg and http://www.cgshaders.org for more information.
